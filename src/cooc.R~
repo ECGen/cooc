@@ -49,3 +49,4 @@ cooc <- function(x='row=obs,col=spp',nits=1000,plot.sim=TRUE,col=c(1,2,3,4)){
   }
   return(out)
 }
+cooc(dune)
